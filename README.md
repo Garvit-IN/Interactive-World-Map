@@ -1,5 +1,4 @@
-# Interactive-World-Map[index.html](https://github.com/user-attachments/files/24380745/index.html)
-<!DOCTYPE html>
+# Interactive-World-Map[index.html](https://github.com/user-attachments/files/24380745/index.html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
